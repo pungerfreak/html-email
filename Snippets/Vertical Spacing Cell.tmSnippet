@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;td height="$1"&gt;
+  &lt;img height="$1" width="1" src="http://amwine.com/html-emails/GeneralAssets/spacer.gif" border="0" hspace="0" style="display:block" /&gt;
+&lt;/td&gt;</string>
+	<key>name</key>
+	<string>Vertical Spacing Cell</string>
+	<key>tabTrigger</key>
+	<string>vert</string>
+	<key>uuid</key>
+	<string>7E3E1450-FB5C-4EC3-948A-A406EC48E859</string>
+</dict>
+</plist>

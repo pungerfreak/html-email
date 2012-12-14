@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+  "http://www.w3.org/TR/html4/strict.dtd"&gt;
+&lt;html lang="en"&gt;
+  &lt;head&gt;
+  &lt;/head&gt;
+
+  &lt;body marginwidth="0" marginheight="0" leftmargin="0" topmargin="0"${1: background="$2" bgcolor="$3"}&gt;
+    &lt;table width="100%" cellspacing="0" cellpadding="0" border="0"${4: background="$5" bgcolor="$6"}&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;center&gt;
+            &lt;a href="VIEWONLINE" style="font-family:helvetica, arial, sans-serif; font-size:11px; line-height:18px; text-decoration:none"&gt;
+              Having trouble viewing this email? Click here to view a web version.
+            &lt;/a&gt;
+          &lt;/center&gt;
+
+          &lt;table width="${7:650}" cellspacing="0" cellpadding="0" border="0" align="center"${1: style="$2" bgcolor="$3"}&gt;
+            &lt;tr&gt;
+              &lt;td&gt;
+                $8
+              &lt;/td&gt;
+            &lt;/tr&gt;
+          &lt;/table&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</string>
+	<key>name</key>
+	<string>Basic Email Template</string>
+	<key>tabTrigger</key>
+	<string>template</string>
+	<key>uuid</key>
+	<string>A246913C-8384-4F89-BC86-DF356EFF5808</string>
+</dict>
+</plist>

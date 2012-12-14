@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>HTML Email</string>
+	<key>ordering</key>
+	<array>
+		<string>ED49A6CA-8029-4466-B655-AAA32FD4AE9D</string>
+		<string>A935AE6D-22DD-47B2-8F75-F613A5F70547</string>
+		<string>7E3E1450-FB5C-4EC3-948A-A406EC48E859</string>
+		<string>A246913C-8384-4F89-BC86-DF356EFF5808</string>
+		<string>FE5B1479-9D85-4C84-9C7E-85B80027F88C</string>
+	</array>
+	<key>uuid</key>
+	<string>C4890576-236B-4966-A9D1-D1A448CBB704</string>
+</dict>
+</plist>

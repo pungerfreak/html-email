@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;td width="$1"&gt;
+  &lt;img width="$1" height="1" src="http://amwine.com/html-emails/GeneralAssets/spacer.gif" border="0" hspace="0" style="display:block" /&gt;
+&lt;/td&gt;</string>
+	<key>name</key>
+	<string>Horizontal Spacing Cell</string>
+	<key>tabTrigger</key>
+	<string>horz</string>
+	<key>uuid</key>
+	<string>A935AE6D-22DD-47B2-8F75-F613A5F70547</string>
+</dict>
+</plist>
