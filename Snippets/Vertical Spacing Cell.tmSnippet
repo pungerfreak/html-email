@@ -3,9 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;td height="$1"&gt;
-  &lt;img height="$1" width="1" src="http://amwine.com/html-emails/GeneralAssets/spacer.gif" border="0" hspace="0" style="display:block" /&gt;
-&lt;/td&gt;</string>
+	<string>&lt;tr&gt;
+  &lt;td height="$1"&gt;
+    &lt;img height="$1" width="1" src="http://amwine.com/html-emails/GeneralAssets/spacer.gif" border="0" hspace="0" style="display:block" /&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;</string>
 	<key>name</key>
 	<string>Vertical Spacing Cell</string>
 	<key>tabTrigger</key>
