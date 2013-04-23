@@ -4,7 +4,7 @@
 <dict>
 	<key>content</key>
 	<string>&lt;td width="$1"&gt;
-  &lt;img width="$1" height="1" src="http://amwine.com/html-emails/GeneralAssets/spacer.gif" border="0" hspace="0" style="display:block" /&gt;
+  &lt;img width="$1" height="1" src="http://amwine.com/html-emails/GeneralAssets/spacer.gif" border="0" hspace="0" style="display:block" alt=""&gt;
 &lt;/td&gt;</string>
 	<key>name</key>
 	<string>Horizontal Spacing Cell</string>

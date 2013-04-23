@@ -3,12 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;img src="${1:IMAGE_SRC}" alt="${2:ALT_TEXT}" border="0" hspace="0" style="display:block;"&gt;</string>
+	<string>font-family:${1:georgia, times, serif}; font-size:${2:14}px; line-height:${3:20}px; color:#${4:000000};</string>
 	<key>name</key>
-	<string>Image Tag</string>
+	<string>Serif Style</string>
 	<key>tabTrigger</key>
-	<string>img</string>
+	<string>serif</string>
 	<key>uuid</key>
-	<string>FE5B1479-9D85-4C84-9C7E-85B80027F88C</string>
+	<string>AE1B055E-22FD-4506-A261-8C29E736468F</string>
 </dict>
 </plist>

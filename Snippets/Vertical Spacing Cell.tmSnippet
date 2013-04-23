@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;tr&gt;
   &lt;td height="$1"&gt;
-    &lt;img height="$1" width="1" src="http://amwine.com/html-emails/GeneralAssets/spacer.gif" border="0" hspace="0" style="display:block" /&gt;
+    &lt;img height="$1" width="1" src="http://amwine.com/html-emails/GeneralAssets/spacer.gif" border="0" hspace="0" style="display:block" alt=""&gt;
   &lt;/td&gt;
 &lt;/tr&gt;</string>
 	<key>name</key>

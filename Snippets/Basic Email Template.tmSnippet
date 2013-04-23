@@ -14,15 +14,15 @@
       &lt;tr&gt;
         &lt;td&gt;
           &lt;center&gt;
-            &lt;a href="VIEWONLINE" style="font-family:helvetica, arial, sans-serif; font-size:11px; line-height:18px; text-decoration:none"&gt;
+            &lt;a href="${4:VIEWONLINE}" style="font-family:helvetica, arial, sans-serif; font-size:11px; line-height:18px; text-decoration:none; color:#${5:666666};"&gt;
               Having trouble viewing this email? Click here to view a web version.
             &lt;/a&gt;
           &lt;/center&gt;
 
-          &lt;table width="${4:650}" cellspacing="0" cellpadding="0" border="0" align="center"${5: style="$6" bgcolor="$7"}&gt;
+          &lt;table width="${6:650}" cellspacing="0" cellpadding="0" border="0" align="center"${7: style="$8" bgcolor="$9"}&gt;
             &lt;tr&gt;
               &lt;td&gt;
-                $8
+                $10
               &lt;/td&gt;
             &lt;/tr&gt;
           &lt;/table&gt;
