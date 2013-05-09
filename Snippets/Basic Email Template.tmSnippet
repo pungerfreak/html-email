@@ -9,23 +9,18 @@
   &lt;head&gt;
   &lt;/head&gt;
 
-  &lt;body marginwidth="0" marginheight="0" leftmargin="0" topmargin="0"${1: background="$2" bgcolor="$3"}&gt;
-    &lt;table width="100%" cellspacing="0" cellpadding="0" border="0"${1: background="$2" bgcolor="$3"}&gt;
+  &lt;body marginwidth="0" marginheight="0" leftmargin="0" topmargin="0"${1: background="$2"}${3: bgcolor="$4"}&gt;
+    &lt;table width="100%" cellspacing="0" cellpadding="0" border="0"${1: background="$2"}${3: bgcolor="$4"}&gt;
       &lt;tr&gt;
         &lt;td&gt;
           &lt;center&gt;
-            &lt;a href="${4:VIEWONLINE}" style="font-family:helvetica, arial, sans-serif; font-size:11px; line-height:18px; text-decoration:none; color:#${5:666666};"&gt;
+            &lt;a href="${5:VIEWONLINE}?utm_source=PremierCellarEMA&amp;amp;utm_medium=email&amp;amp;utm_term=webVersion&amp;amp;utm_content=firstSend&amp;amp;utm_campaign=${6:CAMPAIGN}" style="font-family:helvetica, arial, sans-serif; font-size:11px; line-height:18px; text-decoration:none; color:#${7:666666};"&gt;
               Having trouble viewing this email? Click here to view a web version.
             &lt;/a&gt;
           &lt;/center&gt;
 
-          &lt;table width="${6:650}" cellspacing="0" cellpadding="0" border="0" align="center"${7: style="$8" bgcolor="$9"}&gt;
-            &lt;tr&gt;
-              &lt;td&gt;
-                $10
-              &lt;/td&gt;
-            &lt;/tr&gt;
-          &lt;/table&gt;
+          $8
+					
         &lt;/td&gt;
       &lt;/tr&gt;
     &lt;/table&gt;

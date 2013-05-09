@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;table${1: width="${2:650}"} cellspacing="0" cellpadding="0" border="0"${3: align="${4:center}"}${5: style="$6"}${7: bgcolor="$8"}&gt;
-  &lt;tr${9: valign="top"}&gt;
+	<string>&lt;table${1: width="650"} cellspacing="0" cellpadding="0" border="0"${2: align="center"}${3: bgcolor=""}&gt;
+  &lt;tr${4: valign="top"}&gt;
     &lt;td&gt;
-      $10
+      $5
     &lt;/td&gt;
   &lt;/tr&gt;
 &lt;/table&gt;</string>
