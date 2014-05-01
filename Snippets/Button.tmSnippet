@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;a href="LINK_TARGET"&gt;
+	&lt;img src="${1:IMAGE_SRC}images/${2:IMG_NAME}" alt="${2:ALT_TEXT}" border="0" hspace="0" style="display:block;"&gt;
+&lt;/a&gt;</string>
+	<key>name</key>
+	<string>Linked Image</string>
+	<key>tabTrigger</key>
+	<string>lnk</string>
+	<key>uuid</key>
+	<string>92F36B8B-0681-49DD-9208-D5D6287CDA89</string>
+</dict>
+</plist>
