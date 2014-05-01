@@ -3,7 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
+<<<<<<< HEAD
 	<string>&lt;img src="${1:IMAGE_SRC}images/${2:IMG_NAME}" alt="${2:ALT_TEXT}" border="0" hspace="0" style="display:block;"&gt;</string>
+=======
+	<string>&lt;img src="${1:IMAGE_SRC}" alt="${2:ALT_TEXT}" border="0" hspace="0" style="display:block;"&gt;</string>
+>>>>>>> 4c04a1c0c36f9bbc25a8b2ff27898ff39f33fa3c
 	<key>name</key>
 	<string>Image Tag</string>
 	<key>tabTrigger</key>

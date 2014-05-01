@@ -13,6 +13,7 @@
     &lt;table width="100%" cellspacing="0" cellpadding="0" border="0"${1: background="$2"}${3: bgcolor="$4"}&gt;
       &lt;tr&gt;
         &lt;td&gt;
+<<<<<<< HEAD
 				
 					&lt;center style="font-family:helvetica, arial, sans-serif; font-size:0px; line-height:0px; color:#${5:666666};"&gt;${6:PREVIEWTEXT}&lt;/center&gt;
 					
@@ -44,6 +45,15 @@
 					&lt;/table&gt;
 
           
+=======
+          &lt;center&gt;
+            &lt;a href="${5:VIEWONLINE}?utm_source=PremierCellarEMA&amp;amp;utm_medium=email&amp;amp;utm_term=webVersion&amp;amp;utm_content=firstSend&amp;amp;utm_campaign=${6:CAMPAIGN}" style="font-family:helvetica, arial, sans-serif; font-size:11px; line-height:18px; text-decoration:none; color:#${7:666666};"&gt;
+              Having trouble viewing this email? Click here to view a web version.
+            &lt;/a&gt;
+          &lt;/center&gt;
+
+          $8
+>>>>>>> 4c04a1c0c36f9bbc25a8b2ff27898ff39f33fa3c
 					
         &lt;/td&gt;
       &lt;/tr&gt;

@@ -3,7 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
+<<<<<<< HEAD
 	<string>$1?utm_source=PremierCellarEMA&amp;amp;utm_medium=email&amp;amp;utm_term=LINKTERM&amp;amp;utm_content=firstSend&amp;amp;utm_campaign=CAMPAIGNNAME</string>
+=======
+	<string>$5${1:?}utm_source=PremierCellarEMA&amp;amp;utm_medium=email&amp;amp;utm_term=${2:TERM}&amp;amp;utm_content=${3:firstSend}&amp;amp;utm_campaign=$4</string>
+>>>>>>> 4c04a1c0c36f9bbc25a8b2ff27898ff39f33fa3c
 	<key>name</key>
 	<string>Analytics Tags</string>
 	<key>tabTrigger</key>

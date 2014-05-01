@@ -4,7 +4,11 @@
 <dict>
 	<key>content</key>
 	<string>&lt;table${1: width="650"} cellspacing="0" cellpadding="0" border="0"${2: align="center"}${3: bgcolor=""}&gt;
+<<<<<<< HEAD
   &lt;tr valign="top"&gt;
+=======
+  &lt;tr${4: valign="top"}&gt;
+>>>>>>> 4c04a1c0c36f9bbc25a8b2ff27898ff39f33fa3c
     &lt;td&gt;
       $5
     &lt;/td&gt;

@@ -3,7 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
+<<<<<<< HEAD
 	<string>style="font-family:${1:helvetica, arial, sans-serif}; font-size:${2:14}px; mso-line-height-rule:exactly; line-height:${3:20}px; color:#${4:000000};"</string>
+=======
+	<string>font-family:${1:helvetica, arial, sans-serif}; font-size:${2:14}px; line-height:${3:21}px; color:#${4:000000};</string>
+>>>>>>> 4c04a1c0c36f9bbc25a8b2ff27898ff39f33fa3c
 	<key>name</key>
 	<string>Sans-Serif Style</string>
 	<key>tabTrigger</key>
