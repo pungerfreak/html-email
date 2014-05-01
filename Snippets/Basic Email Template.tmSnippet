@@ -9,31 +9,62 @@
   &lt;head&gt;
   &lt;/head&gt;
 
-  &lt;body marginwidth="0" marginheight="0" leftmargin="0" topmargin="0"${1: background="$2" bgcolor="$3"}&gt;
-    &lt;table width="100%" cellspacing="0" cellpadding="0" border="0"${1: background="$2" bgcolor="$3"}&gt;
+  &lt;body marginwidth="0" marginheight="0" leftmargin="0" topmargin="0"${1: background="$2"}${3: bgcolor="$4"}&gt;
+    &lt;table width="100%" cellspacing="0" cellpadding="0" border="0"${1: background="$2"}${3: bgcolor="$4"}&gt;
       &lt;tr&gt;
         &lt;td&gt;
+<<<<<<< HEAD
+				
+					&lt;center style="font-family:helvetica, arial, sans-serif; font-size:0px; line-height:0px; color:#${5:666666};"&gt;${6:PREVIEWTEXT}&lt;/center&gt;
+					
+					&lt;table width="650" cellspacing="0" cellpadding="0" border="0" align="center"&gt;
+					  &lt;tr valign="middle"&gt;
+					    &lt;td&gt;
+			          &lt;center&gt;
+			            &lt;a href="${7:CAMPAIGNURL}firstSend.html?utm_source=PremierCellarEMA&amp;amp;utm_medium=email&amp;amp;utm_term=webVersion&amp;amp;utm_content=firstSend&amp;amp;utm_campaign=${8:CAMPAIGNNAME}" style="font-family:helvetica, arial, sans-serif; font-size:12px; line-height:12px; text-decoration:none; color:#666666;"&gt;
+			              Having trouble viewing this email? &lt;span style="text-decoration: underline;"&gt;View a web version&lt;/span&gt;.
+			            &lt;/a&gt;
+			          &lt;/center&gt;
+					    &lt;/td&gt;
+					    &lt;td width="100"&gt;
+					      &lt;a href="http://www.facebook.com/sharer.php?u=${7:CAMPAIGNURL}firstSend.html"&gt;
+					        &lt;img src="http://amwine.com/html-emails/GeneralAssets/iconFacebookShare.png" alt="Share on Facebook" border="0" hspace="0" style="display:block; width:100px;"&gt;
+					      &lt;/a&gt;
+					    &lt;/td&gt;
+					    &lt;td width="100"&gt;
+					      &lt;a href="http://twitter.com/home?status=${7:CAMPAIGNURL}firstSend.html"&gt;
+					        &lt;img src="http://amwine.com/html-emails/GeneralAssets/iconTwitterShare.png" alt="Share on Twitter" border="0" hspace="0" style="display:block; width:100px;"&gt;
+					      &lt;/a&gt;
+					    &lt;/td&gt;
+					    &lt;td width="100"&gt;
+					      &lt;a href="%%FORWARDTHIS%%"&gt;
+					        &lt;img src="http://amwine.com/html-emails/GeneralAssets/iconForward.png" alt="Forward" border="0" hspace="0" style="display:block; width:100px;"&gt;
+					      &lt;/a&gt;
+					    &lt;/td&gt;
+					  &lt;/tr&gt;
+					&lt;/table&gt;
+
+          
+=======
           &lt;center&gt;
-            &lt;a href="VIEWONLINE" style="font-family:helvetica, arial, sans-serif; font-size:11px; line-height:18px; text-decoration:none"&gt;
+            &lt;a href="${5:VIEWONLINE}?utm_source=PremierCellarEMA&amp;amp;utm_medium=email&amp;amp;utm_term=webVersion&amp;amp;utm_content=firstSend&amp;amp;utm_campaign=${6:CAMPAIGN}" style="font-family:helvetica, arial, sans-serif; font-size:11px; line-height:18px; text-decoration:none; color:#${7:666666};"&gt;
               Having trouble viewing this email? Click here to view a web version.
             &lt;/a&gt;
           &lt;/center&gt;
 
-          &lt;table width="${4:650}" cellspacing="0" cellpadding="0" border="0" align="center"${5: style="$6" bgcolor="$7"}&gt;
-            &lt;tr&gt;
-              &lt;td&gt;
-                $8
-              &lt;/td&gt;
-            &lt;/tr&gt;
-          &lt;/table&gt;
+          $8
+>>>>>>> 4c04a1c0c36f9bbc25a8b2ff27898ff39f33fa3c
+					
         &lt;/td&gt;
       &lt;/tr&gt;
     &lt;/table&gt;
+		
+		&lt;!--${8:CAMPAIGNNAME}--&gt;
+		
   &lt;/body&gt;
-&lt;/html&gt;
-</string>
+&lt;/html&gt;</string>
 	<key>name</key>
-	<string>Basic Email Template</string>
+	<string>Template</string>
 	<key>tabTrigger</key>
 	<string>template</string>
 	<key>uuid</key>

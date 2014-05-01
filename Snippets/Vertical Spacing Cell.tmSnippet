@@ -4,8 +4,13 @@
 <dict>
 	<key>content</key>
 	<string>&lt;tr&gt;
+<<<<<<< HEAD
+  &lt;td height="$1"$2&gt;
+    &lt;img height="$1" width="1" src="http://emails.premiercellar.com/html-emails/GeneralAssets/spacer.gif" border="0" hspace="0" style="display:block" alt=""&gt;
+=======
   &lt;td height="$1"&gt;
-    &lt;img height="$1" width="1" src="http://amwine.com/html-emails/GeneralAssets/spacer.gif" border="0" hspace="0" style="display:block" /&gt;
+    &lt;img height="$1" width="1" src="http://amwine.com/html-emails/GeneralAssets/spacer.gif" border="0" hspace="0" style="display:block" alt=""&gt;
+>>>>>>> 4c04a1c0c36f9bbc25a8b2ff27898ff39f33fa3c
   &lt;/td&gt;
 &lt;/tr&gt;</string>
 	<key>name</key>

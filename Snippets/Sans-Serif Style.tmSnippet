@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+<<<<<<< HEAD
+	<string>style="font-family:${1:helvetica, arial, sans-serif}; font-size:${2:14}px; mso-line-height-rule:exactly; line-height:${3:20}px; color:#${4:000000};"</string>
+=======
+	<string>font-family:${1:helvetica, arial, sans-serif}; font-size:${2:14}px; line-height:${3:21}px; color:#${4:000000};</string>
+>>>>>>> 4c04a1c0c36f9bbc25a8b2ff27898ff39f33fa3c
+	<key>name</key>
+	<string>Sans-Serif Style</string>
+	<key>tabTrigger</key>
+	<string>sans</string>
+	<key>uuid</key>
+	<string>3138EC3D-1B04-45CF-8373-036ABD4FF1E2</string>
+</dict>
+</plist>
